@@ -5,3 +5,9 @@ body{
 .doispandas { 
     width: 30%;
 }
+
+.cabecalho { 
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
