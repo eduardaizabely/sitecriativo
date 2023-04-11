@@ -13,6 +13,12 @@ body{
     justify-content: space-around;
 }
 
+.conteudo {
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
+
 .doispandas { 
     width: 30%;
 }
