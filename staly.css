@@ -23,6 +23,8 @@ body{
     width: 30%;
 }
 
+
+
 * adiciona uma container*/
 /*define a borda, padding, cor de fundo e arredondamento de borda do conteiner*/
 
@@ -48,7 +50,7 @@ body{
 }
 
 .box1 {
-    width: 45%;
+    width: 50px;
 
 }
 
